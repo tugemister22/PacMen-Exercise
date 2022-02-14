@@ -6,7 +6,7 @@ This code will cause Pacman to move back and forth across the screen when you cl
 Create a folder on your machine and download files, drag index.html file into your browser, and click on the Pacman.
 
 ## Roadmap
-Future improvements would include a backdrop graphic, similar to the arcade game, for Pacman to move along.
+Future improvements could include adding additional Pacmen, changing position and velocity, adding backdrop.
 
 ## LICENSE
 MIT License
