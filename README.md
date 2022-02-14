@@ -2,13 +2,13 @@
 ## Description
 This code will cause a Pacman animation to move back and forth to each side of the screen by clicking on the image.
 
-Executing Program
+## Executing Program
 To implement, download files into a single folder on your machine, drag the file titled pacmenindex.html into your browser and click on the image of Pacman.
 
-Roadmap
+## Roadmap
 Future improvements would include a backdrop graphic, similar to the arcade game, for Pacman to move along.
 
-LICENSE
+## LICENSE
 MIT License
 
 Copyright (c) 2020 John Williams
