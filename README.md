@@ -1,9 +1,9 @@
 # PacMen-Exercise
 ## Description
-This code will cause a Pacman animation to move back and forth to each side of the screen by clicking on the image.
+This code will cause Pacman to move back and forth across the screen when you click on him.
 
 ## Executing Program
-To implement, download files into a single folder on your machine, drag the file titled pacmenindex.html into your browser and click on the image of Pacman.
+Create a folder on your machine and download files, drag index.html file into your browser, and click on the Pacman.
 
 ## Roadmap
 Future improvements would include a backdrop graphic, similar to the arcade game, for Pacman to move along.
